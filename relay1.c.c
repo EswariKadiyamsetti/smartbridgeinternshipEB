@@ -2,7 +2,7 @@
  * relay1.c
  *
  * Created: 5/14/2019 2:51:29 PM
- * Author : Prasanth Remala
+ * Author :Eswari
  */ 
 #include <avr/io.h>
 #define F_CPU 16000000UL
