@@ -2,7 +2,7 @@
  * display segment.c
  *
  * Created: 14-05-2019 10:04:59
- * Author : AMRUTHA
+ * Author : Eswari
  */ 
 
 #ifndef F_CPU
