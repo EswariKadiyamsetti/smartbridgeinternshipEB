@@ -2,7 +2,7 @@
  * GccApplication1.c
  *
  * Created: 5/9/2019 2:15:56 PM
- * Author : Prasanth Remala
+ * Author : Eswari
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL
